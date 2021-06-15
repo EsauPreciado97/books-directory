@@ -1,0 +1,19 @@
+{
+  "name": "books-directory",
+  "version": "1.0.0",
+  "description": "Simple books directory using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsauPreciado97/books-directory.git"
+  },
+  "author": "Esau Preciado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EsauPreciado97/books-directory/issues"
+  },
+  "homepage": "https://github.com/EsauPreciado97/books-directory#readme"
+}
